@@ -8,6 +8,8 @@ Through this project, followed along with Andy Leverenz's light weight Twitter c
 
 The project helped to cement a number of lessons and readings on authentication within rails and gain a healthy amount of experience using the Devise ruby gem to quickly and securely integrate user authentication into the web app.
 
+Using Devise, the application allows users to sign up and sign in (in addition to signing off and ending the current session), as well as restrict content based on whether a user has successfully signed in.
+
 ## Next Steps
 
 Twitter clone could still use a number of improvements including, restricting controls on Tweets to the author of the tweet, adding a follow system, and adding additional controls to tweets (e.g., retweeting or liking).
